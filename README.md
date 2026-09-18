@@ -75,3 +75,15 @@ This repository contains the compiled application and release information only. 
 Edenzilla is proprietary software developed by Eden Tokyo.
 
 See [LICENSE](LICENSE) for the applicable license terms.
+
+## Screenshots
+
+![Edenzilla](screenshots/Edenzilla01.jpg)
+
+![Edenzilla](screenshots/Edenzilla02.jpg)
+
+![Edenzilla](screenshots/Edenzilla03.jpg)
+
+![Edenzilla](screenshots/Edenzilla04.jpg)
+
+![Edenzilla](screenshots/Edenzilla05.jpg)
